@@ -1,6 +1,7 @@
 import java.util.*;
 abstract class Shape
 {
+  //this is a comment
 Scanner sc= new Scanner(System.in);
 abstract void printArea();
 }
